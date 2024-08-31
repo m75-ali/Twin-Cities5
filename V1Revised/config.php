@@ -4,7 +4,7 @@
 // Define the configuration array.
 $config = [
     'apiKeys' => [
-        'googleMaps' => 'AIzaSyCwa3l7oekDnz3VVsTrsnLR17NslkgHqvA',
+        'googleMaps' => 'AIzaSyDsqqHHzPrAFfSLy4kO8OnCaQEw-yrTjLA',
         'openWeather' => 'd296a2cf1989fd59447f7cc288b23f61',
         'news' => '4565ffea984e4c6ca81e90bb5d7e2cbd',
     ],
