@@ -5,7 +5,7 @@
 $config = [
     'apiKeys' => [
         'googleMaps' => 'AIzaSyDsqqHHzPrAFfSLy4kO8OnCaQEw-yrTjLA',
-        'openWeather' => 'd296a2cf1989fd59447f7cc288b23f61',
+        'openWeather' => '5ce0b6e427a503116b28869ec6fa0357',
         'news' => '4565ffea984e4c6ca81e90bb5d7e2cbd',
     ],
     'database' => [
